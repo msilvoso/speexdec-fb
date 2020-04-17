@@ -1,4 +1,4 @@
-Raw fritzbox audio files use a modified speex codec. 
+### Raw fritzbox audio files use a modified speex codec. 
 
 This utility has been modified as in 
 
@@ -8,9 +8,9 @@ to decode fritzbox speex files
 
 
 
-from speexdec-fb/doc/manual.pdf :
+### from speexdec-fb/doc/manual.pdf :
 
-Compiling Speex under UNIX/Linux or any other platform supported by autoconf (e.g. Win32/cygwin) is as easy as typing:
+#### Compiling Speex under UNIX/Linux or any other platform supported by autoconf (e.g. Win32/cygwin) is as easy as typing:
 
 % ./configure [options]
 
