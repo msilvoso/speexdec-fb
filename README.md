@@ -2,8 +2,9 @@ Modified as in https://www.ip-phone-forum.de/threads/fritz-box-anrufbeantworter-
 
 to decode fritzbox speex files
 
-from speexdec-fb/doc/manual.pdf :
 
+
+from speexdec-fb/doc/manual.pdf :
 Compiling Speex under UNIX/Linux or any other platform supported by autoconf (e.g. Win32/cygwin) is as easy as typing:
 
 % ./configure [options]
