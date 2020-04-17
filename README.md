@@ -5,13 +5,21 @@ to decode fritzbox speex files
 from speexdec-fb/doc/manual.pdf :
 
 Compiling Speex under UNIX/Linux or any other platform supported by autoconf (e.g. Win32/cygwin) is as easy as typing:
+
 % ./configure [options]
+
 % make
+
 % make install
+
 The options supported by the Speex configure script are:
+
 –prefix=<path> Specifies the base path for installing Speex (e.g. /usr)
+  
 –enable-shared/–disable-shared Whether to compile shared libraries
+
 –enable-static/–disable-static Whether to compile static libraries
+
 –disable-wideband Disable the wideband part of Speex (typically to save space)
 –enable-valgrind Enable extra hits for valgrind for debugging purposes (do not use by default)
 –enable-sse Enable use of SSE instructions (x86/float only)
