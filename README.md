@@ -1,4 +1,8 @@
-Modified as in https://www.ip-phone-forum.de/threads/fritz-box-anrufbeantworter-encoder-decoder.156186/
+Raw fritzbox audio files use a modified speex codec. 
+
+This utility has been modified as in 
+
+https://www.ip-phone-forum.de/threads/fritz-box-anrufbeantworter-encoder-decoder.156186/
 
 to decode fritzbox speex files
 
